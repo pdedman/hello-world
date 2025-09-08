@@ -2,3 +2,4 @@
 	path = SunshineApp
 	url = https://github.com/pdedman/SunshineApp.git
 	update = merge
+	branch = master
